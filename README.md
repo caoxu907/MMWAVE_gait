@@ -23,3 +23,5 @@ double_fixed:We chose 10 people to walk along a fixed route for 200 seconds. A t
 double_free:We chose 10 people to walk in pairs for 200 seconds. A total of 5 sets of data were collected.
 
 ## Further extended data will be released later
+
+data2：New data set
