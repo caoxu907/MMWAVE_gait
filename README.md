@@ -24,4 +24,4 @@ double_free:We chose 10 people to walk in pairs for 200 seconds. A total of 5 se
 
 ## Further extended data will be released later
 
-data2：New data set
+data2：New data set in different scenarios.
